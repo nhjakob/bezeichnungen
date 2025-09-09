@@ -1,0 +1,142 @@
+[
+  {
+    "level": "*",
+    "leistung": "Audio",
+    "disziplin": "Analyse"
+  },
+  {
+    "level": "*",
+    "leistung": "Audio",
+    "disziplin": "Design"
+  },
+  {
+    "level": "*",
+    "leistung": "Audio",
+    "disziplin": "Text"
+  },
+  {
+    "level": "*",
+    "leistung": "Content",
+    "disziplin": "Analyse"
+  },
+  {
+    "level": "*",
+    "leistung": "Dialog",
+    "disziplin": "Design"
+  },
+  {
+    "level": "*",
+    "leistung": "Dialog",
+    "disziplin": "Redaktion"
+  },
+  {
+    "level": "*",
+    "leistung": "Dialog",
+    "disziplin": "Text"
+  },
+  {
+    "level": "*",
+    "leistung": "Event",
+    "disziplin": "Analyse"
+  },
+  {
+    "level": "*",
+    "leistung": "Event",
+    "disziplin": "Redaktion"
+  },
+  {
+    "level": "*",
+    "leistung": "Event",
+    "disziplin": "Text"
+  },
+  {
+    "level": "*",
+    "leistung": "Kampagne",
+    "disziplin": "Analyse"
+  },
+  {
+    "level": "*",
+    "leistung": "Kommunikation",
+    "disziplin": "Redaktion"
+  },
+  {
+    "level": "*",
+    "leistung": "Kommunikation",
+    "disziplin": "Text"
+  },
+  {
+    "level": "*",
+    "leistung": "Presse/PR",
+    "disziplin": "Analyse"
+  },
+  {
+    "level": "*",
+    "leistung": "Presse/PR",
+    "disziplin": "Design"
+  },
+  {
+    "level": "*",
+    "leistung": "Presse/PR",
+    "disziplin": "Text"
+  },
+  {
+    "level": "*",
+    "leistung": "Print",
+    "disziplin": "Analyse"
+  },
+  {
+    "level": "*",
+    "leistung": "Print",
+    "disziplin": "Text"
+  },
+  {
+    "level": "*",
+    "leistung": "UX/UI",
+    "disziplin": "Analyse"
+  },
+  {
+    "level": "*",
+    "leistung": "UX/UI",
+    "disziplin": "Beratung"
+  },
+  {
+    "level": "*",
+    "leistung": "UX/UI",
+    "disziplin": "Redaktion"
+  },
+  {
+    "level": "*",
+    "leistung": "UX/UI",
+    "disziplin": "Text"
+  },
+  {
+    "level": "*",
+    "leistung": "Video",
+    "disziplin": "Analyse"
+  },
+  {
+    "level": "*",
+    "leistung": "Video",
+    "disziplin": "Redaktion"
+  },
+  {
+    "level": "*",
+    "leistung": "Web",
+    "disziplin": "Analyse"
+  },
+  {
+    "level": "*",
+    "leistung": "Wissenschaft",
+    "disziplin": "Design"
+  },
+  {
+    "level": "*",
+    "leistung": "Wissenschaft",
+    "disziplin": "Konzept"
+  },
+  {
+    "level": "*",
+    "leistung": "Wissenschaft",
+    "disziplin": "Text"
+  }
+]
